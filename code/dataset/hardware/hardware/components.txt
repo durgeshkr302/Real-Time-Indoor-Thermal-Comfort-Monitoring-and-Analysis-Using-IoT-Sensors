@@ -1,0 +1,7 @@
+ESP32 Dev Board
+DHT22 Temperature and Humidity Sensor
+DS18B20 Temperature Sensor
+MQ135 Air Quality Sensor
+Breadboard
+Jumper Wires
+USB Cable
