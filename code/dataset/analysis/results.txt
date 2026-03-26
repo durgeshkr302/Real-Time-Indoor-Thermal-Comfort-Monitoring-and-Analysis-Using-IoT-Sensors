@@ -1,0 +1,5 @@
+The system successfully monitored indoor temperature, humidity, and air quality.
+The observed temperature ranged between 26°C to 29°C.
+Humidity levels were within the comfortable range of 40% to 60%.
+Air quality values indicated moderate indoor conditions.
+Overall, the environment was mostly comfortable for occupants.
