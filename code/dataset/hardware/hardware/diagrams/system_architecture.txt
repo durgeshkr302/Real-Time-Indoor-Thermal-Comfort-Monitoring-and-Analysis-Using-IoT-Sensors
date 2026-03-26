@@ -1,0 +1,9 @@
+Sensors (DHT22, DS18B20, MQ135)
+        ↓
+ESP32 Microcontroller
+        ↓
+Data Collection
+        ↓
+Thermal Comfort Analysis
+        ↓
+Monitoring / Output
